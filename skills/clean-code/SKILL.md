@@ -1,6 +1,6 @@
 ---
+name: clean-code
 description: Richtlinien für das Schreiben von sauberem, wartbarem und gut lesbarem Code. Wende diese Regeln beim Schreiben oder Überprüfen von Code an, um Konsistenz und Qualität sicherzustellen.
-globs: 
 ---
 # Clean-Code-Richtlinien
 
